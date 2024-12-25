@@ -60,7 +60,7 @@ export default {
 
 <style scoped>
 div {
-  background-image: url("@/assets/_.png");
+  background-image: url(./assets/_.png);
 
   height: 100vw;
 }
